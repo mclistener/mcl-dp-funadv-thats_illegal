@@ -14,7 +14,7 @@
   * Download to pool: `!dp fetch mcl://funadv-thats_illegal`
   * Install to your current world: `!dp install mcl-funadv-thats_illegal`
 
-  If you don't use MCL just [download the zip](https://github.com/mclistener/mcl-dp-funadv-thats_illegal/raw/releases/current.zip) and copy the zip file (or extracted folder) to your `<world>/datapacks` directory.
+  If you don't use MCL just [download the zip](https://github.com/mclistener/mcl-dp-funadv-thats_illegal/raw/master/releases/current.zip) and copy the zip file (or extracted folder) to your `<world>/datapacks` directory.
 
 ## Usage
 
