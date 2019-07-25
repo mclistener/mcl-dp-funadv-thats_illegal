@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:barrier"
+    },
+    "title": {
+      "translate": "Wait. That's illegal."
+    },
+    "description": {
+      "translate": "Go above the nether bedrock ceiling"
+    }
+  },
+  "parent": "mcl:root",
+  "hidden": true,
+  "rewards": {
+    "experience": 55
+  },
+  "criteria": {
+    "mcl_thats_illegal": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "the_nether",
+        "position": { "y": { "min": 128 } }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone"
+    },
+    "title": {
+      "translate": "MCL"
+    },
+    "description": {
+      "translate": "Advancements from MCL, your loyal server wrapper"
+    },
+    "background": "minecraft:textures/block/chiseled_red_sandstone.png",
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "mcl_root": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "position": { "y": { "min": 0 } }
+      }
+    }
+  }
+}
